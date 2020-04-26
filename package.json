@@ -1,0 +1,17 @@
+{
+  "name": "tarea7bk",
+  "version": "1.0.0",
+  "description": "Backend para tarea 7",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo 'Hola xD'",
+    "start": "nodemon src/index.js"
+  },
+  "author": "Josué Galeano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mysql": "^2.18.1"
+  }
+}
